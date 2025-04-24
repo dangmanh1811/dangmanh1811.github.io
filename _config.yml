@@ -51,7 +51,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "dangmanh1811"
+  facebook         : # "dangmanh1811"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "dangmanh1811
+  linkedin         : # "dangmanh1811
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
