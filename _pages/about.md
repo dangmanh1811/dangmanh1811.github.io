@@ -15,7 +15,7 @@ redirect_from:
 👨‍💻 I'm a senior majoring in Artificial Intelligence at FPT University HCMC, Vietnam.
 
 # Research Interests
-- Source-free Domain Adaptation
+- Domain Adaptation
 - Semi Supervised Learning
 
 ---
